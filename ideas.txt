@@ -1,0 +1,196 @@
+routes should be
+localhost:3000 - Intro and Begin? 
+localhost:3000/begin - take name of the person attempting
+localhost:3000/quiz - one by one questions with back buttons to prev questions
+lastly
+localhost:3000/result - result page with their name 
+localhost:3000/leaderboard - also a table of all people who attempted previously and their scores in a table like leaderboard
+
+It should be completely fun, emojis and icons
+
+mongodb+srv://tejakondabolu11:ASecretPassword@1012@quizapp.dligpbx.mongodb.net/?retryWrites=true&w=majority&appName=QuizApp
+
+Questions:
+1. Fav color: 
+color palletes (4 options) (lilac, lavender, lime, jade)
+2. Fav place
+Options: (with images) img1, img2, img3, img4
+Rome, Italy
+Valley of Flowers, Uttarakhand
+Mussoorie, Uttarakhand
+Munar, Kerala
+
+3. Fav cuisine
+Indian
+Mexican
+Italian
+Chinese
+
+4. Fav cartoon
+Shinchan
+Jake and the Never Land Pirates
+Doraemon
+WordWorld
+
+
+5. Fav dish to see
+Koream Bibimbap
+Chicken Biryani
+Lasagna
+Paneer Butter masala
+Japanese Tkeobokki
+Hainanese chicken rice
+
+
+6. Fav movie
+Angels and Demons
+The davinci code
+Inferno
+Interstellar
+
+
+7. Fav Love story
+Ms Dhoni
+Seetha Ramam
+Sanam Teri Kasam
+Ninnu Kori
+
+
+8. Most hated animal
+Snake
+Lizard
+Cockroach
+Rats
+
+9. Favourite roommate
+Saranya
+Indu
+Nishitha
+Sobha
+Sirisha
+
+10. Favourite book
+The american roommate experiment
+A girl who knew too much
+The silent patient
+Verity
+
+11. Favourite place to eat
+
+
+
+12. Fav Subject
+Mathematics
+Chemistry
+Physics
+Social Studies
+
+13. Which of these quirky habits do I actually have?
+Making aesthetic to-do lists... and forgetting about them
+Rewatching my favorite scene just for that one line
+Mentally replying to messages and forgetting to actually send themMentally replying to messages and forgetting to actually send themTalking to myself like I'm giving a TED Talk
+
+
+
+
+
+15. My dream vacation style?
+Options:
+
+Chilling in a cozy mountain cabin
+
+Exploring historical cities
+
+Beach resort with a book
+
+Forest retreat and hiking
+
+
+14. What's my go-to comfort thing?
+Options:
+
+Hot chocolate
+
+A long phone call
+
+Blanket + Playlist
+
+Doodling/writing in my journal
+
+
+
+13. How do I prefer to spend my Sunday?
+Options:
+
+Watching a movie with snacks
+
+Reading a book curled up in bed
+
+Exploring a new place
+
+Sleeping like there’s no tomorrow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. If I were running late, what would be the reason?
+Options:
+
+Still choosing an outfit
+
+Lost in a random thought spiral
+
+Forgot the time while journaling/watching reels
+
+Was early but then decided to nap
+
+
+
+20. What's something I do way too often?
+Options:
+
+Overthink messages before sending
+
+Say “let’s do it” and then forget
+
+Make aesthetic notes for no reason
+
+Get emotionally attached to fictional characters
+
+
+21. What do you secretly admire about me?
+Options:
+
+Your confidence when you speak
+
+How you show up for people
+
+Your lowkey creativity
+
+How real you are
+
+
+14. If I were a weather, what would I be?
+Options:
+
+Calm drizzle
+
+Thunderstorm
+
+Sunny and breezy
+
+Misty and mysterious
