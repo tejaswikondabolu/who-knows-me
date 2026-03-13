@@ -98,7 +98,7 @@ const questions = [
       question: "🙅‍♀️ Which animal does Teja hate the most?",
       type: "image",
       options: [
-        { value: "Snake", image: "images/snake.jpg" },
+        { value: "Snake", image: "images/snake.JPG" },
         { value: "Lizard", image: "images/lizard.jpg" },
         { value: "Cockroach", image: "images/cockroach.jpg" },
         { value: "Rats", image: "images/rat.jpg" }
