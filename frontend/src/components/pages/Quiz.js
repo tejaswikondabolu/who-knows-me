@@ -250,9 +250,8 @@ function Quiz({ userName, setScore, setTotalQuestions }) {
       const totalScore = selectedAnswers.reduce((score, answer, index) => {
         return answer === questions[index].answer ? score + 1 : score;
       }, 0);
-  
-      setUserAnswers(selectedAnswers);
-      setScore(totalScore);  // This will now be out of total questions
+   
+      setScore(totalScore);
       navigate("/result");
     }
   };
