@@ -225,7 +225,7 @@ const questions = [
 
   
 
-function Quiz({ userName, setUserAnswers, setScore, setTotalQuestions }) {
+function Quiz({ userName, setScore, setTotalQuestions }) {
   const [currentQ, setCurrentQ] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState([]);
   const navigate = useNavigate();

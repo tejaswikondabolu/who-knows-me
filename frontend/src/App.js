@@ -12,7 +12,6 @@ import BackgroundMusic from "./components/BackgroundMusic";
 
 function App() {
   const [userName, setUserName] = useState("");
-  //const [userAnswers, setUserAnswers] = useState([]);
   const [score, setScore] = useState(0);
   const [totalQuestions, setTotalQuestions] = useState(0);
 
@@ -27,7 +26,6 @@ function App() {
           element={
             <Quiz
               userName={userName}
-              setUserAnswers={setUserAnswers}
               setScore={setScore}
               setTotalQuestions={setTotalQuestions}
             />
