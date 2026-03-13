@@ -15,7 +15,7 @@ function Result({ userName, score, totalQuestions }) {
     const saveScore = async () => {
       try {
         setIsSaving(true);
-        const response = await fetch('http://localhost:5000/api/submit', {
+        const response = await fetch('https://who-knows-me.onrender.com/api/submit', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
