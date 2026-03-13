@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 function ShareCard({ userName, score, totalQuestions, onClose }) {
   const canvasRef = useRef(null);
   const [downloaded, setDownloaded] = useState(false);
-  const navigate = useNavigate();
+  //const navigate = useNavigate();
   const total = totalQuestions || 21;
 
   const getMessage = () => {

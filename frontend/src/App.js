@@ -12,7 +12,7 @@ import BackgroundMusic from "./components/BackgroundMusic";
 
 function App() {
   const [userName, setUserName] = useState("");
-  const [userAnswers, setUserAnswers] = useState([]);
+  //const [userAnswers, setUserAnswers] = useState([]);
   const [score, setScore] = useState(0);
   const [totalQuestions, setTotalQuestions] = useState(0);
 
